@@ -1,6 +1,6 @@
 # CUDAParticleSystem
 
-CUDA Particle System
+CUDA Particle System/n
 Particles move randomly and simple wind and gravity can be applied to particles. 
 G-Gravity 
 W-Wind
