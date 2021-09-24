@@ -1,6 +1,6 @@
 # CUDAParticleSystem
 
-CUDA Particle System - https://www.youtube.com/watch?v=_LhAYumbsgo&list=PLBIFiBLP8fgRKBtxaBkvhs0b3uieBwQBJ
+CUDA Particle System - https://www.youtube.com/watch?v=zjQOEPvi5QU
 
 Particles move randomly and simple wind and gravity can be applied to particles. 
 
